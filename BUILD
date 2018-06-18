@@ -14,5 +14,4 @@ filegroup(
         "//common:for_bazel_tests",
         "//tools:for_bazel_tests",
     ],
-    visibility = ["//:__subpackages__"],
 )
